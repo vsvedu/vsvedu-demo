@@ -1,2 +1,2 @@
 # vsvedu-demo
-New To Git Repository.
+New To Git Repo..
